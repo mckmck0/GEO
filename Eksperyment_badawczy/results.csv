@@ -1,0 +1,1441 @@
+n,m,p,w,optimal_solution,calc_time,gap,cuts,objective_value
+10,3,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,4.0
+10,3,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,6.0
+10,3,0.6,1,integer optimal solution,0.03200000000651926,0.0,0,6.0
+10,3,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,5.0
+10,3,0.6,1,integer optimal solution,0.03200000000651926,0.0,0,9.0
+10,3,0.6,1,integer optimal solution,0.01600000006146729,0.0,0,7.0
+10,3,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,6.0
+10,3,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,6.0
+10,3,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,7.0
+10,3,0.6,1,integer infeasible,0.015999999945051968,,,
+10,3,0.6,10,integer infeasible,0.015000000013969839,,,
+10,3,0.6,10,integer infeasible,0.015999999945051968,,,
+10,3,0.6,10,integer infeasible,0.01600000006146729,,,
+10,3,0.6,10,integer infeasible,0.015000000013969839,,,
+10,3,0.6,10,integer infeasible,0.0,,,
+10,3,0.6,10,integer infeasible,0.01600000006146729,,,
+10,3,0.6,10,integer infeasible,0.015000000013969839,,,
+10,3,0.6,10,integer infeasible,0.015999999945051968,,,
+10,3,0.6,10,integer infeasible,0.0,,,
+10,3,0.6,10,integer infeasible,0.015000000013969839,,,
+10,3,0.6,5,integer infeasible,0.0,,,
+10,3,0.6,5,integer infeasible,0.015000000013969839,,,
+10,3,0.6,5,integer infeasible,0.015999999945051968,,,
+10,3,0.6,5,integer infeasible,0.015000000013969839,,,
+10,3,0.6,5,integer infeasible,0.015000000013969839,,,
+10,3,0.6,5,integer infeasible,0.0,,,
+10,3,0.6,5,integer infeasible,0.015000000013969839,,,
+10,3,0.6,5,integer infeasible,0.015999999945051968,,,
+10,3,0.6,5,integer infeasible,0.015999999945051968,,,
+10,3,0.6,5,integer infeasible,0.01600000006146729,,,
+10,3,0.8,1,integer infeasible,0.015999999945051968,,,
+10,3,0.8,1,integer optimal solution,0.03200000000651926,0.0,0,10.0
+10,3,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,8.0
+10,3,0.8,1,integer infeasible,0.015000000013969839,,,
+10,3,0.8,1,integer infeasible,0.0,,,
+10,3,0.8,1,integer infeasible,0.015000000013969839,,,
+10,3,0.8,1,integer infeasible,0.01600000006146729,,,
+10,3,0.8,1,integer infeasible,0.015000000013969839,,,
+10,3,0.8,1,integer infeasible,0.015999999945051968,,,
+10,3,0.8,1,integer infeasible,0.0,,,
+10,3,0.8,10,integer infeasible,0.015999999945051968,,,
+10,3,0.8,10,integer infeasible,0.0,,,
+10,3,0.8,10,integer infeasible,0.015000000013969839,,,
+10,3,0.8,10,integer infeasible,0.0,,,
+10,3,0.8,10,integer infeasible,0.03200000000651926,,,
+10,3,0.8,10,integer infeasible,0.015000000013969839,,,
+10,3,0.8,10,integer infeasible,0.015999999945051968,,,
+10,3,0.8,10,integer infeasible,0.0,,,
+10,3,0.8,10,integer infeasible,0.015000000013969839,,,
+10,3,0.8,10,integer infeasible,0.0,,,
+10,3,0.8,5,integer infeasible,0.015000000013969839,,,
+10,3,0.8,5,integer infeasible,0.0,,,
+10,3,0.8,5,integer infeasible,0.0,,,
+10,3,0.8,5,integer infeasible,0.0,,,
+10,3,0.8,5,integer infeasible,0.015999999945051968,,,
+10,3,0.8,5,integer infeasible,0.01600000006146729,,,
+10,3,0.8,5,integer infeasible,0.0,,,
+10,3,0.8,5,integer infeasible,0.015999999945051968,,,
+10,3,0.8,5,integer infeasible,0.0,,,
+10,3,0.8,5,integer infeasible,0.015999999945051968,,,
+10,3,1.0,1,integer infeasible,0.0,,,
+10,3,1.0,1,integer infeasible,0.015999999945051968,,,
+10,3,1.0,1,integer infeasible,0.015999999945051968,,,
+10,3,1.0,1,integer infeasible,0.015000000013969839,,,
+10,3,1.0,1,integer infeasible,0.0,,,
+10,3,1.0,1,integer infeasible,0.015000000013969839,,,
+10,3,1.0,1,integer infeasible,0.015000000013969839,,,
+10,3,1.0,1,integer infeasible,0.015999999945051968,,,
+10,3,1.0,1,integer infeasible,0.015999999945051968,,,
+10,3,1.0,1,integer infeasible,0.01600000006146729,,,
+10,3,1.0,10,integer infeasible,0.015000000013969839,,,
+10,3,1.0,10,integer infeasible,0.015999999945051968,,,
+10,3,1.0,10,integer infeasible,0.015999999945051968,,,
+10,3,1.0,10,integer infeasible,0.01600000006146729,,,
+10,3,1.0,10,integer infeasible,0.015000000013969839,,,
+10,3,1.0,10,integer infeasible,0.0,,,
+10,3,1.0,10,integer infeasible,0.0,,,
+10,3,1.0,10,integer infeasible,0.03200000000651926,,,
+10,3,1.0,10,integer infeasible,0.01600000006146729,,,
+10,3,1.0,10,integer infeasible,0.015000000013969839,,,
+10,3,1.0,5,integer infeasible,0.015000000013969839,,,
+10,3,1.0,5,integer infeasible,0.015999999945051968,,,
+10,3,1.0,5,integer infeasible,0.01600000006146729,,,
+10,3,1.0,5,integer infeasible,0.015000000013969839,,,
+10,3,1.0,5,integer infeasible,0.015000000013969839,,,
+10,3,1.0,5,integer infeasible,0.015999999945051968,,,
+10,3,1.0,5,integer infeasible,0.01600000006146729,,,
+10,3,1.0,5,integer infeasible,0.0,,,
+10,3,1.0,5,integer infeasible,0.0,,,
+10,3,1.0,5,integer infeasible,0.01600000006146729,,,
+10,5,0.6,1,integer optimal solution,0.03100000007543713,0.0,0,2.0
+10,5,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+10,5,0.6,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+10,5,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+10,5,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,2.0
+10,5,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,1.0
+10,5,0.6,1,integer optimal solution,0.03200000000651926,0.0,0,3.0
+10,5,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,3.0
+10,5,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,2.0
+10,5,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,3.0
+10,5,0.6,10,integer infeasible,0.015000000013969839,,,
+10,5,0.6,10,integer infeasible,0.015999999945051968,,,
+10,5,0.6,10,integer infeasible,0.015999999945051968,,,
+10,5,0.6,10,integer infeasible,0.015999999945051968,,,
+10,5,0.6,10,integer infeasible,0.01600000006146729,,,
+10,5,0.6,10,integer infeasible,0.015999999945051968,,,
+10,5,0.6,10,integer infeasible,0.01600000006146729,,,
+10,5,0.6,10,integer infeasible,0.01600000006146729,,,
+10,5,0.6,10,integer infeasible,0.015999999945051968,,,
+10,5,0.6,10,integer infeasible,0.015999999945051968,,,
+10,5,0.6,5,integer infeasible,0.01600000006146729,,,
+10,5,0.6,5,integer infeasible,0.01600000006146729,,,
+10,5,0.6,5,integer infeasible,0.015999999945051968,,,
+10,5,0.6,5,integer infeasible,0.015999999945051968,,,
+10,5,0.6,5,integer infeasible,0.01600000006146729,,,
+10,5,0.6,5,integer infeasible,0.015999999945051968,,,
+10,5,0.6,5,integer infeasible,0.01600000006146729,,,
+10,5,0.6,5,integer infeasible,0.015000000013969839,,,
+10,5,0.6,5,integer infeasible,0.015999999945051968,,,
+10,5,0.6,5,integer infeasible,0.015000000013969839,,,
+10,5,0.8,1,integer optimal solution,0.0470000000204891,0.0,0,2.0
+10,5,0.8,1,integer optimal solution,0.03200000000651926,0.0,0,2.0
+10,5,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,4.0
+10,5,0.8,1,integer optimal solution,0.0,0.0,0,0.0
+10,5,0.8,1,integer optimal solution,0.0470000000204891,0.0,0,2.0
+10,5,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+10,5,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+10,5,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,2.0
+10,5,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,2.0
+10,5,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,2.0
+10,5,0.8,10,integer infeasible,0.015000000013969839,,,
+10,5,0.8,10,integer infeasible,0.015999999945051968,,,
+10,5,0.8,10,integer infeasible,0.015999999945051968,,,
+10,5,0.8,10,integer infeasible,0.0,,,
+10,5,0.8,10,integer infeasible,0.015999999945051968,,,
+10,5,0.8,10,integer infeasible,0.01600000006146729,,,
+10,5,0.8,10,integer infeasible,0.015999999945051968,,,
+10,5,0.8,10,integer infeasible,0.01600000006146729,,,
+10,5,0.8,10,integer infeasible,0.0,,,
+10,5,0.8,10,integer infeasible,0.015000000013969839,,,
+10,5,0.8,5,integer infeasible,0.015999999945051968,,,
+10,5,0.8,5,integer infeasible,0.0,,,
+10,5,0.8,5,integer infeasible,0.015999999945051968,,,
+10,5,0.8,5,integer infeasible,0.0,,,
+10,5,0.8,5,integer infeasible,0.03100000007543713,,,
+10,5,0.8,5,integer infeasible,0.015000000013969839,,,
+10,5,0.8,5,integer infeasible,0.01600000006146729,,,
+10,5,0.8,5,integer infeasible,0.01600000006146729,,,
+10,5,0.8,5,integer infeasible,0.015000000013969839,,,
+10,5,0.8,5,integer infeasible,0.01600000006146729,,,
+10,5,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,3.0
+10,5,1.0,1,integer optimal solution,0.045999999972991645,0.0,0,2.0
+10,5,1.0,1,integer optimal solution,0.0,0.0,0,0.0
+10,5,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,2.0
+10,5,1.0,1,integer optimal solution,0.030999999959021807,0.0,0,2.0
+10,5,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+10,5,1.0,1,integer optimal solution,0.03200000000651926,0.0,0,1.0
+10,5,1.0,1,integer optimal solution,0.030999999959021807,0.0,0,3.0
+10,5,1.0,1,integer optimal solution,0.03200000000651926,0.0,0,4.0
+10,5,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+10,5,1.0,10,integer infeasible,0.015999999945051968,,,
+10,5,1.0,10,integer infeasible,0.015999999945051968,,,
+10,5,1.0,10,integer infeasible,0.015999999945051968,,,
+10,5,1.0,10,integer infeasible,0.015000000013969839,,,
+10,5,1.0,10,integer infeasible,0.015000000013969839,,,
+10,5,1.0,10,integer infeasible,0.015000000013969839,,,
+10,5,1.0,10,integer infeasible,0.0,,,
+10,5,1.0,10,integer infeasible,0.03100000007543713,,,
+10,5,1.0,10,integer infeasible,0.015999999945051968,,,
+10,5,1.0,10,integer infeasible,0.015999999945051968,,,
+10,5,1.0,5,integer infeasible,0.01600000006146729,,,
+10,5,1.0,5,integer infeasible,0.015999999945051968,,,
+10,5,1.0,5,integer infeasible,0.03200000000651926,,,
+10,5,1.0,5,integer infeasible,0.01600000006146729,,,
+10,5,1.0,5,integer infeasible,0.015999999945051968,,,
+10,5,1.0,5,integer infeasible,0.015999999945051968,,,
+10,5,1.0,5,integer infeasible,0.01600000006146729,,,
+10,5,1.0,5,integer infeasible,0.015999999945051968,,,
+10,5,1.0,5,integer infeasible,0.01600000006146729,,,
+10,5,1.0,5,integer infeasible,0.03100000007543713,,,
+10,7,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,7,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,1.0
+10,7,0.6,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+10,7,0.6,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+10,7,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,7,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,1.0
+10,7,0.6,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+10,7,0.6,1,integer optimal solution,0.0,0.0,0,0.0
+10,7,0.6,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+10,7,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+10,7,0.6,10,integer infeasible,0.01600000006146729,,,
+10,7,0.6,10,integer infeasible,0.03200000000651926,,,
+10,7,0.6,10,integer infeasible,0.015000000013969839,,,
+10,7,0.6,10,integer infeasible,0.015999999945051968,,,
+10,7,0.6,10,integer infeasible,0.015000000013969839,,,
+10,7,0.6,10,integer infeasible,0.01600000006146729,,,
+10,7,0.6,10,integer infeasible,0.01600000006146729,,,
+10,7,0.6,10,integer infeasible,0.030999999959021807,,,
+10,7,0.6,10,integer infeasible,0.015000000013969839,,,
+10,7,0.6,10,integer infeasible,0.015000000013969839,,,
+10,7,0.6,5,integer optimal solution,0.07900000002700835,0.0,0,13.0
+10,7,0.6,5,integer optimal solution,0.10999999998603016,0.0,0,15.0
+10,7,0.6,5,integer optimal solution,0.1720000000204891,0.0,0,19.0
+10,7,0.6,5,integer optimal solution,0.2029999999795109,0.0,0,18.0
+10,7,0.6,5,integer optimal solution,0.06299999996554106,0.0,0,12.0
+10,7,0.6,5,integer optimal solution,0.10900000005494803,0.0,0,17.0
+10,7,0.6,5,integer optimal solution,0.32900000002700835,0.0,0,14.0
+10,7,0.6,5,integer optimal solution,0.25,0.0,0,19.0
+10,7,0.6,5,integer optimal solution,0.03100000007543713,0.0,0,7.0
+10,7,0.6,5,integer optimal solution,0.1720000000204891,0.0,0,18.0
+10,7,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+10,7,0.8,1,integer optimal solution,0.0,0.0,0,0.0
+10,7,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+10,7,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+10,7,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,2.0
+10,7,0.8,1,integer optimal solution,0.01600000006146729,0.0,0,1.0
+10,7,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+10,7,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+10,7,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,1.0
+10,7,0.8,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+10,7,0.8,10,integer infeasible,0.030999999959021807,,,
+10,7,0.8,10,integer infeasible,0.01600000006146729,,,
+10,7,0.8,10,integer infeasible,0.03100000007543713,,,
+10,7,0.8,10,integer infeasible,0.015999999945051968,,,
+10,7,0.8,10,integer infeasible,0.03200000000651926,,,
+10,7,0.8,10,integer infeasible,0.030999999959021807,,,
+10,7,0.8,10,integer infeasible,0.030999999959021807,,,
+10,7,0.8,10,integer infeasible,0.015999999945051968,,,
+10,7,0.8,10,integer infeasible,0.015999999945051968,,,
+10,7,0.8,10,integer infeasible,0.015000000013969839,,,
+10,7,0.8,5,integer infeasible,0.01600000006146729,,,
+10,7,0.8,5,integer infeasible,0.01600000006146729,,,
+10,7,0.8,5,integer optimal solution,0.1559999999590218,0.0,0,37.0
+10,7,0.8,5,integer infeasible,0.01600000006146729,,,
+10,7,0.8,5,integer infeasible,0.030999999959021807,,,
+10,7,0.8,5,integer infeasible,0.10899999993853271,,,
+10,7,0.8,5,integer optimal solution,0.1720000000204891,0.0,0,31.0
+10,7,0.8,5,integer infeasible,0.03200000000651926,,,
+10,7,0.8,5,integer infeasible,0.015999999945051968,,,
+10,7,0.8,5,integer infeasible,0.01600000006146729,,,
+10,7,1.0,1,integer optimal solution,0.0,0.0,0,0.0
+10,7,1.0,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+10,7,1.0,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,7,1.0,1,integer optimal solution,0.0,0.0,0,0.0
+10,7,1.0,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+10,7,1.0,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+10,7,1.0,1,integer optimal solution,0.0,0.0,0,0.0
+10,7,1.0,1,integer optimal solution,0.01600000006146729,0.0,0,1.0
+10,7,1.0,1,integer optimal solution,0.0,0.0,0,0.0
+10,7,1.0,1,integer optimal solution,0.0,0.0,0,0.0
+10,7,1.0,10,integer infeasible,0.030999999959021807,,,
+10,7,1.0,10,integer infeasible,0.015000000013969839,,,
+10,7,1.0,10,integer infeasible,0.015999999945051968,,,
+10,7,1.0,10,integer infeasible,0.015999999945051968,,,
+10,7,1.0,10,integer infeasible,0.015999999945051968,,,
+10,7,1.0,10,integer infeasible,0.01600000006146729,,,
+10,7,1.0,10,integer infeasible,0.030999999959021807,,,
+10,7,1.0,10,integer infeasible,0.03200000000651926,,,
+10,7,1.0,10,integer infeasible,0.03200000000651926,,,
+10,7,1.0,10,integer infeasible,0.030999999959021807,,,
+10,7,1.0,5,integer infeasible,0.03100000007543713,,,
+10,7,1.0,5,integer infeasible,0.015999999945051968,,,
+10,7,1.0,5,integer infeasible,0.015000000013969839,,,
+10,7,1.0,5,integer infeasible,0.03200000000651926,,,
+10,7,1.0,5,integer infeasible,0.015999999945051968,,,
+10,7,1.0,5,integer infeasible,0.030999999959021807,,,
+10,7,1.0,5,integer infeasible,0.03100000007543713,,,
+10,7,1.0,5,integer infeasible,0.015000000013969839,,,
+10,7,1.0,5,integer infeasible,0.015999999945051968,,,
+10,7,1.0,5,integer infeasible,0.015999999945051968,,,
+10,9,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+10,9,0.6,1,integer optimal solution,0.0,0.0,0,0.0
+10,9,0.6,1,integer optimal solution,0.0,0.0,0,0.0
+10,9,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,9,0.6,1,integer optimal solution,0.0,0.0,0,0.0
+10,9,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,9,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+10,9,0.6,1,integer optimal solution,0.01600000006146729,0.0,0,1.0
+10,9,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,1.0
+10,9,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,9,0.6,10,integer optimal solution,0.1720000000204891,0.0,0,25.0
+10,9,0.6,10,integer optimal solution,0.1720000000204891,0.0,0,39.0
+10,9,0.6,10,integer optimal solution,0.1720000000204891,0.0,0,26.0
+10,9,0.6,10,integer optimal solution,0.1559999999590218,0.0,0,35.0
+10,9,0.6,10,integer optimal solution,0.1720000000204891,0.0,0,23.0
+10,9,0.6,10,integer optimal solution,0.1559999999590218,0.0,0,37.0
+10,9,0.6,10,integer optimal solution,0.1720000000204891,0.0,0,32.0
+10,9,0.6,10,integer infeasible,0.015000000013969839,,,
+10,9,0.6,10,integer optimal solution,0.1720000000204891,0.0,0,30.0
+10,9,0.6,10,integer optimal solution,0.18700000003445894,0.0,0,25.0
+10,9,0.6,5,integer optimal solution,0.09399999992456287,0.0,0,8.0
+10,9,0.6,5,integer optimal solution,0.03100000007543713,0.0,0,8.0
+10,9,0.6,5,integer optimal solution,0.062000000034458935,0.0,0,9.0
+10,9,0.6,5,integer optimal solution,0.06299999996554106,0.0,0,12.0
+10,9,0.6,5,integer optimal solution,0.030999999959021807,0.0,0,5.0
+10,9,0.6,5,integer optimal solution,0.030999999959021807,0.0,0,2.0
+10,9,0.6,5,integer optimal solution,0.07900000002700835,0.0,0,11.0
+10,9,0.6,5,integer optimal solution,0.07800000009592623,0.0,0,9.0
+10,9,0.6,5,integer optimal solution,0.030999999959021807,0.0,0,8.0
+10,9,0.6,5,integer optimal solution,0.03200000000651926,0.0,0,8.0
+10,9,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+10,9,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,9,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+10,9,0.8,1,integer optimal solution,0.0,0.0,0,0.0
+10,9,0.8,1,integer optimal solution,0.0,0.0,0,0.0
+10,9,0.8,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+10,9,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,9,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,9,0.8,1,integer optimal solution,0.0,0.0,0,0.0
+10,9,0.8,1,integer optimal solution,0.0,0.0,0,1.0
+10,9,0.8,10,integer infeasible,0.03100000007543713,,,
+10,9,0.8,10,integer infeasible,0.015999999945051968,,,
+10,9,0.8,10,integer infeasible,0.030999999959021807,,,
+10,9,0.8,10,integer infeasible,0.03200000000651926,,,
+10,9,0.8,10,integer infeasible,0.030999999959021807,,,
+10,9,0.8,10,integer infeasible,0.015000000013969839,,,
+10,9,0.8,10,integer infeasible,0.030999999959021807,,,
+10,9,0.8,10,integer infeasible,0.030999999959021807,,,
+10,9,0.8,10,integer infeasible,0.030999999959021807,,,
+10,9,0.8,10,integer infeasible,0.03100000007543713,,,
+10,9,0.8,5,integer optimal solution,0.125,0.0,0,12.0
+10,9,0.8,5,integer optimal solution,0.06299999996554106,0.0,0,15.0
+10,9,0.8,5,integer optimal solution,0.0470000000204891,0.0,0,16.0
+10,9,0.8,5,integer optimal solution,0.06300000008195639,0.0,0,17.0
+10,9,0.8,5,integer optimal solution,0.03100000007543713,0.0,0,9.0
+10,9,0.8,5,integer optimal solution,0.17199999990407377,0.0,0,19.0
+10,9,0.8,5,integer optimal solution,0.062000000034458935,0.0,0,15.0
+10,9,0.8,5,integer optimal solution,0.1720000000204891,0.0,0,15.0
+10,9,0.8,5,integer optimal solution,0.0779999999795109,0.0,0,17.0
+10,9,0.8,5,integer optimal solution,0.17199999990407377,0.0,0,18.0
+10,9,1.0,1,integer optimal solution,0.01600000006146729,0.0,0,1.0
+10,9,1.0,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,9,1.0,1,integer optimal solution,0.01600000006146729,0.0,0,2.0
+10,9,1.0,1,integer optimal solution,0.0,0.0,0,0.0
+10,9,1.0,1,integer optimal solution,0.015999999945051968,0.0,0,1.0
+10,9,1.0,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+10,9,1.0,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,9,1.0,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+10,9,1.0,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+10,9,1.0,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+10,9,1.0,10,integer infeasible,0.03100000007543713,,,
+10,9,1.0,10,integer infeasible,0.0470000000204891,,,
+10,9,1.0,10,integer infeasible,0.01600000006146729,,,
+10,9,1.0,10,integer infeasible,0.01600000006146729,,,
+10,9,1.0,10,integer infeasible,0.015000000013969839,,,
+10,9,1.0,10,integer infeasible,0.030999999959021807,,,
+10,9,1.0,10,integer infeasible,0.015999999945051968,,,
+10,9,1.0,10,integer infeasible,0.015999999945051968,,,
+10,9,1.0,10,integer infeasible,0.015000000013969839,,,
+10,9,1.0,10,integer infeasible,0.03100000007543713,,,
+10,9,1.0,5,integer optimal solution,0.1559999999590218,0.0,0,21.0
+10,9,1.0,5,integer optimal solution,0.09299999999348074,0.0,0,16.0
+10,9,1.0,5,integer optimal solution,0.15700000000651926,0.0,0,33.0
+10,9,1.0,5,integer optimal solution,0.1720000000204891,0.0,0,20.0
+10,9,1.0,5,integer optimal solution,0.15600000007543713,0.0,0,28.0
+10,9,1.0,5,integer optimal solution,0.17199999990407377,0.0,0,35.0
+10,9,1.0,5,integer optimal solution,0.2029999999795109,0.0,0,31.0
+10,9,1.0,5,integer optimal solution,0.1720000000204891,0.0,0,24.0
+10,9,1.0,5,integer optimal solution,0.1559999999590218,0.0,0,26.0
+10,9,1.0,5,integer optimal solution,0.062000000034458935,0.0,0,14.0
+20,3,0.6,1,integer infeasible,0.030999999959021807,,,
+20,3,0.6,1,integer infeasible,0.0,,,
+20,3,0.6,1,integer infeasible,0.015999999945051968,,,
+20,3,0.6,1,integer infeasible,0.0,,,
+20,3,0.6,1,integer infeasible,0.015999999945051968,,,
+20,3,0.6,1,integer infeasible,0.0,,,
+20,3,0.6,1,integer infeasible,0.01600000006146729,,,
+20,3,0.6,1,integer infeasible,0.015000000013969839,,,
+20,3,0.6,1,integer infeasible,0.015999999945051968,,,
+20,3,0.6,1,integer infeasible,0.015999999945051968,,,
+20,3,0.6,10,integer infeasible,0.015999999945051968,,,
+20,3,0.6,10,integer infeasible,0.015000000013969839,,,
+20,3,0.6,10,integer infeasible,0.0,,,
+20,3,0.6,10,integer infeasible,0.01600000006146729,,,
+20,3,0.6,10,integer infeasible,0.015999999945051968,,,
+20,3,0.6,10,integer infeasible,0.015000000013969839,,,
+20,3,0.6,10,integer infeasible,0.01600000006146729,,,
+20,3,0.6,10,integer infeasible,0.015999999945051968,,,
+20,3,0.6,10,integer infeasible,0.015999999945051968,,,
+20,3,0.6,10,integer infeasible,0.015000000013969839,,,
+20,3,0.6,5,integer infeasible,0.01600000006146729,,,
+20,3,0.6,5,integer infeasible,0.01600000006146729,,,
+20,3,0.6,5,integer infeasible,0.015999999945051968,,,
+20,3,0.6,5,integer infeasible,0.015999999945051968,,,
+20,3,0.6,5,integer infeasible,0.015999999945051968,,,
+20,3,0.6,5,integer infeasible,0.01600000006146729,,,
+20,3,0.6,5,integer infeasible,0.01600000006146729,,,
+20,3,0.6,5,integer infeasible,0.015000000013969839,,,
+20,3,0.6,5,integer infeasible,0.015999999945051968,,,
+20,3,0.6,5,integer infeasible,0.0,,,
+20,3,0.8,1,integer infeasible,0.0,,,
+20,3,0.8,1,integer infeasible,0.015000000013969839,,,
+20,3,0.8,1,integer infeasible,0.0,,,
+20,3,0.8,1,integer infeasible,0.015999999945051968,,,
+20,3,0.8,1,integer infeasible,0.0,,,
+20,3,0.8,1,integer infeasible,0.01600000006146729,,,
+20,3,0.8,1,integer infeasible,0.015000000013969839,,,
+20,3,0.8,1,integer infeasible,0.015000000013969839,,,
+20,3,0.8,1,integer infeasible,0.015999999945051968,,,
+20,3,0.8,1,integer infeasible,0.0,,,
+20,3,0.8,10,integer infeasible,0.015000000013969839,,,
+20,3,0.8,10,integer infeasible,0.01600000006146729,,,
+20,3,0.8,10,integer infeasible,0.015999999945051968,,,
+20,3,0.8,10,integer infeasible,0.015000000013969839,,,
+20,3,0.8,10,integer infeasible,0.01600000006146729,,,
+20,3,0.8,10,integer infeasible,0.0,,,
+20,3,0.8,10,integer infeasible,0.015000000013969839,,,
+20,3,0.8,10,integer infeasible,0.015999999945051968,,,
+20,3,0.8,10,integer infeasible,0.015999999945051968,,,
+20,3,0.8,10,integer infeasible,0.015000000013969839,,,
+20,3,0.8,5,integer infeasible,0.0,,,
+20,3,0.8,5,integer infeasible,0.015999999945051968,,,
+20,3,0.8,5,integer infeasible,0.03100000007543713,,,
+20,3,0.8,5,integer infeasible,0.015999999945051968,,,
+20,3,0.8,5,integer infeasible,0.015000000013969839,,,
+20,3,0.8,5,integer infeasible,0.015999999945051968,,,
+20,3,0.8,5,integer infeasible,0.015999999945051968,,,
+20,3,0.8,5,integer infeasible,0.015000000013969839,,,
+20,3,0.8,5,integer infeasible,0.0,,,
+20,3,0.8,5,integer infeasible,0.015999999945051968,,,
+20,3,1.0,1,integer infeasible,0.01600000006146729,,,
+20,3,1.0,1,integer infeasible,0.015000000013969839,,,
+20,3,1.0,1,integer infeasible,0.0,,,
+20,3,1.0,1,integer infeasible,0.015000000013969839,,,
+20,3,1.0,1,integer infeasible,0.015999999945051968,,,
+20,3,1.0,1,integer infeasible,0.01600000006146729,,,
+20,3,1.0,1,integer infeasible,0.015000000013969839,,,
+20,3,1.0,1,integer infeasible,0.015000000013969839,,,
+20,3,1.0,1,integer infeasible,0.015999999945051968,,,
+20,3,1.0,1,integer infeasible,0.0,,,
+20,3,1.0,10,integer infeasible,0.015000000013969839,,,
+20,3,1.0,10,integer infeasible,0.015999999945051968,,,
+20,3,1.0,10,integer infeasible,0.015000000013969839,,,
+20,3,1.0,10,integer infeasible,0.015000000013969839,,,
+20,3,1.0,10,integer infeasible,0.015000000013969839,,,
+20,3,1.0,10,integer infeasible,0.015999999945051968,,,
+20,3,1.0,10,integer infeasible,0.01600000006146729,,,
+20,3,1.0,10,integer infeasible,0.015000000013969839,,,
+20,3,1.0,10,integer infeasible,0.015000000013969839,,,
+20,3,1.0,10,integer infeasible,0.01600000006146729,,,
+20,3,1.0,5,integer infeasible,0.01600000006146729,,,
+20,3,1.0,5,integer infeasible,0.015000000013969839,,,
+20,3,1.0,5,integer infeasible,0.015000000013969839,,,
+20,3,1.0,5,integer infeasible,0.01600000006146729,,,
+20,3,1.0,5,integer infeasible,0.030999999959021807,,,
+20,3,1.0,5,integer infeasible,0.01600000006146729,,,
+20,3,1.0,5,integer infeasible,0.0,,,
+20,3,1.0,5,integer infeasible,0.030999999959021807,,,
+20,3,1.0,5,integer infeasible,0.015000000013969839,,,
+20,3,1.0,5,integer infeasible,0.015999999945051968,,,
+20,5,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,2.0
+20,5,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,6.0
+20,5,0.6,1,integer optimal solution,0.03200000000651926,0.0,0,7.0
+20,5,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,5.0
+20,5,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,7.0
+20,5,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,6.0
+20,5,0.6,1,integer optimal solution,0.03100000007543713,0.0,0,5.0
+20,5,0.6,1,integer optimal solution,0.062000000034458935,0.0,0,8.0
+20,5,0.6,1,integer optimal solution,0.03200000000651926,0.0,0,3.0
+20,5,0.6,1,integer optimal solution,0.03200000000651926,0.0,0,4.0
+20,5,0.6,10,integer infeasible,0.015000000013969839,,,
+20,5,0.6,10,integer infeasible,0.030999999959021807,,,
+20,5,0.6,10,integer infeasible,0.015000000013969839,,,
+20,5,0.6,10,integer infeasible,0.015999999945051968,,,
+20,5,0.6,10,integer infeasible,0.015000000013969839,,,
+20,5,0.6,10,integer infeasible,0.01600000006146729,,,
+20,5,0.6,10,integer infeasible,0.015999999945051968,,,
+20,5,0.6,10,integer infeasible,0.03200000000651926,,,
+20,5,0.6,10,integer infeasible,0.015000000013969839,,,
+20,5,0.6,10,integer infeasible,0.03200000000651926,,,
+20,5,0.6,5,integer infeasible,0.030999999959021807,,,
+20,5,0.6,5,integer infeasible,0.015999999945051968,,,
+20,5,0.6,5,integer infeasible,0.01600000006146729,,,
+20,5,0.6,5,integer infeasible,0.030999999959021807,,,
+20,5,0.6,5,integer infeasible,0.015000000013969839,,,
+20,5,0.6,5,integer infeasible,0.01600000006146729,,,
+20,5,0.6,5,integer infeasible,0.0470000000204891,,,
+20,5,0.6,5,integer infeasible,0.015000000013969839,,,
+20,5,0.6,5,integer infeasible,0.030999999959021807,,,
+20,5,0.6,5,integer infeasible,0.030999999959021807,,,
+20,5,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,11.0
+20,5,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,11.0
+20,5,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,7.0
+20,5,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,5.0
+20,5,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,8.0
+20,5,0.8,1,integer optimal solution,0.0470000000204891,0.0,0,11.0
+20,5,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,7.0
+20,5,0.8,1,integer optimal solution,0.0470000000204891,0.0,0,9.0
+20,5,0.8,1,integer optimal solution,0.03200000000651926,0.0,0,6.0
+20,5,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,6.0
+20,5,0.8,10,integer infeasible,0.03100000007543713,,,
+20,5,0.8,10,integer infeasible,0.03100000007543713,,,
+20,5,0.8,10,integer infeasible,0.030999999959021807,,,
+20,5,0.8,10,integer infeasible,0.030999999959021807,,,
+20,5,0.8,10,integer infeasible,0.015999999945051968,,,
+20,5,0.8,10,integer infeasible,0.030999999959021807,,,
+20,5,0.8,10,integer infeasible,0.015999999945051968,,,
+20,5,0.8,10,integer infeasible,0.015000000013969839,,,
+20,5,0.8,10,integer infeasible,0.015000000013969839,,,
+20,5,0.8,10,integer infeasible,0.030999999959021807,,,
+20,5,0.8,5,integer infeasible,0.01600000006146729,,,
+20,5,0.8,5,integer infeasible,0.015000000013969839,,,
+20,5,0.8,5,integer infeasible,0.030999999959021807,,,
+20,5,0.8,5,integer infeasible,0.015999999945051968,,,
+20,5,0.8,5,integer infeasible,0.015999999945051968,,,
+20,5,0.8,5,integer infeasible,0.015999999945051968,,,
+20,5,0.8,5,integer infeasible,0.015000000013969839,,,
+20,5,0.8,5,integer infeasible,0.015999999945051968,,,
+20,5,0.8,5,integer infeasible,0.015000000013969839,,,
+20,5,0.8,5,integer infeasible,0.030999999959021807,,,
+20,5,1.0,1,integer optimal solution,0.0779999999795109,0.0,0,11.0
+20,5,1.0,1,integer optimal solution,0.030999999959021807,0.0,0,9.0
+20,5,1.0,1,integer optimal solution,0.015999999945051968,0.0,0,9.0
+20,5,1.0,1,integer optimal solution,0.030999999959021807,0.0,0,8.0
+20,5,1.0,1,integer optimal solution,0.14000000001396984,0.0,0,15.0
+20,5,1.0,1,integer optimal solution,0.03200000000651926,0.0,0,11.0
+20,5,1.0,1,integer optimal solution,0.14099999994505197,0.0,0,16.0
+20,5,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,9.0
+20,5,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,12.0
+20,5,1.0,1,integer optimal solution,0.015999999945051968,0.0,0,11.0
+20,5,1.0,10,integer infeasible,0.0470000000204891,,,
+20,5,1.0,10,integer infeasible,0.046999999904073775,,,
+20,5,1.0,10,integer infeasible,0.046999999904073775,,,
+20,5,1.0,10,integer infeasible,0.0470000000204891,,,
+20,5,1.0,10,integer infeasible,0.0470000000204891,,,
+20,5,1.0,10,integer infeasible,0.06299999996554106,,,
+20,5,1.0,10,integer infeasible,0.046999999904073775,,,
+20,5,1.0,10,integer infeasible,0.0470000000204891,,,
+20,5,1.0,10,integer infeasible,0.0470000000204891,,,
+20,5,1.0,10,integer infeasible,0.030999999959021807,,,
+20,5,1.0,5,integer infeasible,0.030999999959021807,,,
+20,5,1.0,5,integer infeasible,0.030999999959021807,,,
+20,5,1.0,5,integer infeasible,0.030999999959021807,,,
+20,5,1.0,5,integer infeasible,0.015999999945051968,,,
+20,5,1.0,5,integer infeasible,0.015000000013969839,,,
+20,5,1.0,5,integer infeasible,0.03200000000651926,,,
+20,5,1.0,5,integer infeasible,0.030999999959021807,,,
+20,5,1.0,5,integer infeasible,0.03200000000651926,,,
+20,5,1.0,5,integer infeasible,0.030999999959021807,,,
+20,5,1.0,5,integer infeasible,0.030999999959021807,,,
+20,7,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+20,7,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,3.0
+20,7,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,2.0
+20,7,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,2.0
+20,7,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,2.0
+20,7,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+20,7,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,2.0
+20,7,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+20,7,0.6,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+20,7,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,6.0
+20,7,0.6,10,integer infeasible,0.030999999959021807,,,
+20,7,0.6,10,integer infeasible,0.03200000000651926,,,
+20,7,0.6,10,integer infeasible,0.0470000000204891,,,
+20,7,0.6,10,integer infeasible,0.03100000007543713,,,
+20,7,0.6,10,integer infeasible,0.030999999959021807,,,
+20,7,0.6,10,integer infeasible,0.01600000006146729,,,
+20,7,0.6,10,integer infeasible,0.03200000000651926,,,
+20,7,0.6,10,integer infeasible,0.03200000000651926,,,
+20,7,0.6,10,integer infeasible,0.045999999972991645,,,
+20,7,0.6,10,integer infeasible,0.030999999959021807,,,
+20,7,0.6,5,integer infeasible,0.015999999945051968,,,
+20,7,0.6,5,integer infeasible,0.030999999959021807,,,
+20,7,0.6,5,integer infeasible,0.015999999945051968,,,
+20,7,0.6,5,integer infeasible,0.03100000007543713,,,
+20,7,0.6,5,integer infeasible,0.03100000007543713,,,
+20,7,0.6,5,integer infeasible,0.030999999959021807,,,
+20,7,0.6,5,integer infeasible,0.030999999959021807,,,
+20,7,0.6,5,integer infeasible,0.030999999959021807,,,
+20,7,0.6,5,integer infeasible,0.015999999945051968,,,
+20,7,0.6,5,integer infeasible,0.03200000000651926,,,
+20,7,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+20,7,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+20,7,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,3.0
+20,7,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,3.0
+20,7,0.8,1,integer optimal solution,0.046999999904073775,0.0,0,2.0
+20,7,0.8,1,integer optimal solution,0.03200000000651926,0.0,0,4.0
+20,7,0.8,1,integer optimal solution,0.03200000000651926,0.0,0,1.0
+20,7,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,3.0
+20,7,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,2.0
+20,7,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+20,7,0.8,10,integer infeasible,0.030999999959021807,,,
+20,7,0.8,10,integer infeasible,0.046999999904073775,,,
+20,7,0.8,10,integer infeasible,0.0470000000204891,,,
+20,7,0.8,10,integer infeasible,0.03100000007543713,,,
+20,7,0.8,10,integer infeasible,0.045999999972991645,,,
+20,7,0.8,10,integer infeasible,0.0470000000204891,,,
+20,7,0.8,10,integer infeasible,0.0470000000204891,,,
+20,7,0.8,10,integer infeasible,0.045999999972991645,,,
+20,7,0.8,10,integer infeasible,0.06299999996554106,,,
+20,7,0.8,10,integer infeasible,0.06299999996554106,,,
+20,7,0.8,5,integer infeasible,0.030999999959021807,,,
+20,7,0.8,5,integer infeasible,0.03200000000651926,,,
+20,7,0.8,5,integer infeasible,0.03100000007543713,,,
+20,7,0.8,5,integer infeasible,0.0470000000204891,,,
+20,7,0.8,5,integer infeasible,0.03100000007543713,,,
+20,7,0.8,5,integer infeasible,0.046999999904073775,,,
+20,7,0.8,5,integer infeasible,0.015000000013969839,,,
+20,7,0.8,5,integer infeasible,0.03200000000651926,,,
+20,7,0.8,5,integer infeasible,0.030999999959021807,,,
+20,7,0.8,5,integer infeasible,0.03100000007543713,,,
+20,7,1.0,1,integer optimal solution,0.03200000000651926,0.0,0,2.0
+20,7,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,3.0
+20,7,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,2.0
+20,7,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,3.0
+20,7,1.0,1,integer optimal solution,0.03200000000651926,0.0,0,2.0
+20,7,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,3.0
+20,7,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,4.0
+20,7,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,4.0
+20,7,1.0,1,integer optimal solution,0.03200000000651926,0.0,0,4.0
+20,7,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,2.0
+20,7,1.0,10,integer infeasible,0.0779999999795109,,,
+20,7,1.0,10,integer infeasible,0.125,,,
+20,7,1.0,10,integer infeasible,0.09399999992456287,,,
+20,7,1.0,10,integer infeasible,0.062000000034458935,,,
+20,7,1.0,10,integer infeasible,0.10999999998603016,,,
+20,7,1.0,10,integer infeasible,0.062000000034458935,,,
+20,7,1.0,10,integer infeasible,0.06299999996554106,,,
+20,7,1.0,10,integer infeasible,0.0940000000409782,,,
+20,7,1.0,10,integer infeasible,0.0940000000409782,,,
+20,7,1.0,10,integer infeasible,0.0779999999795109,,,
+20,7,1.0,5,integer infeasible,0.030999999959021807,,,
+20,7,1.0,5,integer infeasible,0.03100000007543713,,,
+20,7,1.0,5,integer infeasible,0.030999999959021807,,,
+20,7,1.0,5,integer infeasible,0.0470000000204891,,,
+20,7,1.0,5,integer infeasible,0.030999999959021807,,,
+20,7,1.0,5,integer infeasible,0.0470000000204891,,,
+20,7,1.0,5,integer infeasible,0.0470000000204891,,,
+20,7,1.0,5,integer infeasible,0.046999999904073775,,,
+20,7,1.0,5,integer infeasible,0.0470000000204891,,,
+20,7,1.0,5,integer infeasible,0.0470000000204891,,,
+20,9,0.6,1,integer optimal solution,0.01600000006146729,0.0,0,1.0
+20,9,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,1.0
+20,9,0.6,1,integer optimal solution,0.0,0.0,0,0.0
+20,9,0.6,1,integer optimal solution,0.01600000006146729,0.0,0,1.0
+20,9,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+20,9,0.6,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+20,9,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+20,9,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+20,9,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+20,9,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+20,9,0.6,10,integer infeasible,0.0470000000204891,,,
+20,9,0.6,10,integer infeasible,0.0470000000204891,,,
+20,9,0.6,10,integer infeasible,0.0470000000204891,,,
+20,9,0.6,10,integer infeasible,0.0470000000204891,,,
+20,9,0.6,10,integer infeasible,0.06199999991804361,,,
+20,9,0.6,10,integer infeasible,0.0470000000204891,,,
+20,9,0.6,10,integer infeasible,0.06300000008195639,,,
+20,9,0.6,10,integer infeasible,0.0470000000204891,,,
+20,9,0.6,10,integer infeasible,0.046999999904073775,,,
+20,9,0.6,10,integer infeasible,0.0470000000204891,,,
+20,9,0.6,5,integer optimal solution,0.6559999999590218,0.0,0,65.0
+20,9,0.6,5,integer infeasible,1.547000000020489,,,
+20,9,0.6,5,integer infeasible,0.062000000034458935,,,
+20,9,0.6,5,integer infeasible,0.0470000000204891,,,
+20,9,0.6,5,integer optimal solution,1.5160000000614673,0.0,0,83.0
+20,9,0.6,5,integer infeasible,0.06299999996554106,,,
+20,9,0.6,5,integer optimal solution,1.234000000054948,0.0,0,65.0
+20,9,0.6,5,integer optimal solution,1.375,0.0,0,67.0
+20,9,0.6,5,integer optimal solution,1.0320000000065193,0.0,0,88.0
+20,9,0.6,5,integer optimal solution,2.094000000040978,0.0,0,58.0
+20,9,0.8,1,integer optimal solution,0.0,0.0,0,0.0
+20,9,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+20,9,0.8,1,integer optimal solution,0.01600000006146729,0.0,0,1.0
+20,9,0.8,1,integer optimal solution,0.0,0.0,0,0.0
+20,9,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+20,9,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+20,9,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+20,9,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+20,9,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+20,9,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+20,9,0.8,10,integer infeasible,0.0470000000204891,,,
+20,9,0.8,10,integer infeasible,0.0470000000204891,,,
+20,9,0.8,10,integer infeasible,0.062000000034458935,,,
+20,9,0.8,10,integer infeasible,0.06199999991804361,,,
+20,9,0.8,10,integer infeasible,0.0779999999795109,,,
+20,9,0.8,10,integer infeasible,0.06299999996554106,,,
+20,9,0.8,10,integer infeasible,0.0470000000204891,,,
+20,9,0.8,10,integer infeasible,0.0470000000204891,,,
+20,9,0.8,10,integer infeasible,0.062000000034458935,,,
+20,9,0.8,10,integer infeasible,0.0470000000204891,,,
+20,9,0.8,5,integer infeasible,0.030999999959021807,,,
+20,9,0.8,5,integer infeasible,0.0470000000204891,,,
+20,9,0.8,5,integer infeasible,0.030999999959021807,,,
+20,9,0.8,5,integer infeasible,0.03200000000651926,,,
+20,9,0.8,5,integer infeasible,0.0470000000204891,,,
+20,9,0.8,5,integer infeasible,0.0470000000204891,,,
+20,9,0.8,5,integer infeasible,0.0470000000204891,,,
+20,9,0.8,5,integer infeasible,0.06300000008195639,,,
+20,9,0.8,5,integer infeasible,0.03100000007543713,,,
+20,9,0.8,5,integer infeasible,0.030999999959021807,,,
+20,9,1.0,1,integer optimal solution,0.0,0.0,0,1.0
+20,9,1.0,1,integer optimal solution,0.01600000006146729,0.0,0,1.0
+20,9,1.0,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+20,9,1.0,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+20,9,1.0,1,integer optimal solution,0.0,0.0,0,0.0
+20,9,1.0,1,integer optimal solution,0.015999999945051968,0.0,0,1.0
+20,9,1.0,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+20,9,1.0,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+20,9,1.0,1,integer optimal solution,0.015999999945051968,0.0,0,3.0
+20,9,1.0,1,integer optimal solution,0.0,0.0,0,0.0
+20,9,1.0,10,integer infeasible,0.10999999998603016,,,
+20,9,1.0,10,integer infeasible,0.0779999999795109,,,
+20,9,1.0,10,integer infeasible,0.09399999992456287,,,
+20,9,1.0,10,integer infeasible,0.09399999992456287,,,
+20,9,1.0,10,integer infeasible,0.09299999999348074,,,
+20,9,1.0,10,integer infeasible,0.10999999998603016,,,
+20,9,1.0,10,integer infeasible,0.0940000000409782,,,
+20,9,1.0,10,integer infeasible,0.10899999993853271,,,
+20,9,1.0,10,integer infeasible,0.09299999999348074,,,
+20,9,1.0,10,integer infeasible,0.09399999992456287,,,
+20,9,1.0,5,integer infeasible,0.0470000000204891,,,
+20,9,1.0,5,integer infeasible,0.03100000007543713,,,
+20,9,1.0,5,integer infeasible,0.0470000000204891,,,
+20,9,1.0,5,integer infeasible,0.045999999972991645,,,
+20,9,1.0,5,integer infeasible,0.0470000000204891,,,
+20,9,1.0,5,integer infeasible,0.0470000000204891,,,
+20,9,1.0,5,integer infeasible,0.046999999904073775,,,
+20,9,1.0,5,integer infeasible,0.03200000000651926,,,
+20,9,1.0,5,integer infeasible,0.0470000000204891,,,
+20,9,1.0,5,integer infeasible,0.0470000000204891,,,
+30,3,0.6,1,integer infeasible,0.01600000006146729,,,
+30,3,0.6,1,integer infeasible,0.01600000006146729,,,
+30,3,0.6,1,integer infeasible,0.0,,,
+30,3,0.6,1,integer infeasible,0.015999999945051968,,,
+30,3,0.6,1,integer infeasible,0.015999999945051968,,,
+30,3,0.6,1,integer infeasible,0.015000000013969839,,,
+30,3,0.6,1,integer infeasible,0.01600000006146729,,,
+30,3,0.6,1,integer infeasible,0.015000000013969839,,,
+30,3,0.6,1,integer infeasible,0.015999999945051968,,,
+30,3,0.6,1,integer infeasible,0.015999999945051968,,,
+30,3,0.6,10,integer infeasible,0.030999999959021807,,,
+30,3,0.6,10,integer infeasible,0.015999999945051968,,,
+30,3,0.6,10,integer infeasible,0.0470000000204891,,,
+30,3,0.6,10,integer infeasible,0.015999999945051968,,,
+30,3,0.6,10,integer infeasible,0.01600000006146729,,,
+30,3,0.6,10,integer infeasible,0.03100000007543713,,,
+30,3,0.6,10,integer infeasible,0.015000000013969839,,,
+30,3,0.6,10,integer infeasible,0.01600000006146729,,,
+30,3,0.6,10,integer infeasible,0.015999999945051968,,,
+30,3,0.6,10,integer infeasible,0.03100000007543713,,,
+30,3,0.6,5,integer infeasible,0.015999999945051968,,,
+30,3,0.6,5,integer infeasible,0.030999999959021807,,,
+30,3,0.6,5,integer infeasible,0.015999999945051968,,,
+30,3,0.6,5,integer infeasible,0.015000000013969839,,,
+30,3,0.6,5,integer infeasible,0.015000000013969839,,,
+30,3,0.6,5,integer infeasible,0.015000000013969839,,,
+30,3,0.6,5,integer infeasible,0.0,,,
+30,3,0.6,5,integer infeasible,0.015000000013969839,,,
+30,3,0.6,5,integer infeasible,0.015999999945051968,,,
+30,3,0.6,5,integer infeasible,0.015000000013969839,,,
+30,3,0.8,1,integer infeasible,0.015999999945051968,,,
+30,3,0.8,1,integer infeasible,0.015000000013969839,,,
+30,3,0.8,1,integer infeasible,0.015000000013969839,,,
+30,3,0.8,1,integer infeasible,0.0,,,
+30,3,0.8,1,integer infeasible,0.015999999945051968,,,
+30,3,0.8,1,integer infeasible,0.0,,,
+30,3,0.8,1,integer infeasible,0.01600000006146729,,,
+30,3,0.8,1,integer infeasible,0.01600000006146729,,,
+30,3,0.8,1,integer infeasible,0.015000000013969839,,,
+30,3,0.8,1,integer infeasible,0.015000000013969839,,,
+30,3,0.8,10,integer infeasible,0.015999999945051968,,,
+30,3,0.8,10,integer infeasible,0.0,,,
+30,3,0.8,10,integer infeasible,0.015000000013969839,,,
+30,3,0.8,10,integer infeasible,0.030999999959021807,,,
+30,3,0.8,10,integer infeasible,0.015999999945051968,,,
+30,3,0.8,10,integer infeasible,0.015000000013969839,,,
+30,3,0.8,10,integer infeasible,0.01600000006146729,,,
+30,3,0.8,10,integer infeasible,0.015000000013969839,,,
+30,3,0.8,10,integer infeasible,0.015999999945051968,,,
+30,3,0.8,10,integer infeasible,0.015999999945051968,,,
+30,3,0.8,5,integer infeasible,0.030999999959021807,,,
+30,3,0.8,5,integer infeasible,0.030999999959021807,,,
+30,3,0.8,5,integer infeasible,0.015999999945051968,,,
+30,3,0.8,5,integer infeasible,0.03200000000651926,,,
+30,3,0.8,5,integer infeasible,0.03100000007543713,,,
+30,3,0.8,5,integer infeasible,0.015000000013969839,,,
+30,3,0.8,5,integer infeasible,0.015999999945051968,,,
+30,3,0.8,5,integer infeasible,0.015999999945051968,,,
+30,3,0.8,5,integer infeasible,0.030999999959021807,,,
+30,3,0.8,5,integer infeasible,0.030999999959021807,,,
+30,3,1.0,1,integer infeasible,0.01600000006146729,,,
+30,3,1.0,1,integer infeasible,0.01600000006146729,,,
+30,3,1.0,1,integer infeasible,0.015000000013969839,,,
+30,3,1.0,1,integer infeasible,0.015999999945051968,,,
+30,3,1.0,1,integer infeasible,0.015999999945051968,,,
+30,3,1.0,1,integer infeasible,0.0,,,
+30,3,1.0,1,integer infeasible,0.015999999945051968,,,
+30,3,1.0,1,integer infeasible,0.015000000013969839,,,
+30,3,1.0,1,integer infeasible,0.015999999945051968,,,
+30,3,1.0,1,integer infeasible,0.015000000013969839,,,
+30,3,1.0,10,integer infeasible,0.030999999959021807,,,
+30,3,1.0,10,integer infeasible,0.01600000006146729,,,
+30,3,1.0,10,integer infeasible,0.01600000006146729,,,
+30,3,1.0,10,integer infeasible,0.015999999945051968,,,
+30,3,1.0,10,integer infeasible,0.015999999945051968,,,
+30,3,1.0,10,integer infeasible,0.03100000007543713,,,
+30,3,1.0,10,integer infeasible,0.01600000006146729,,,
+30,3,1.0,10,integer infeasible,0.01600000006146729,,,
+30,3,1.0,10,integer infeasible,0.03100000007543713,,,
+30,3,1.0,10,integer infeasible,0.01600000006146729,,,
+30,3,1.0,5,integer infeasible,0.015999999945051968,,,
+30,3,1.0,5,integer infeasible,0.0,,,
+30,3,1.0,5,integer infeasible,0.015000000013969839,,,
+30,3,1.0,5,integer infeasible,0.01600000006146729,,,
+30,3,1.0,5,integer infeasible,0.015999999945051968,,,
+30,3,1.0,5,integer infeasible,0.015000000013969839,,,
+30,3,1.0,5,integer infeasible,0.015999999945051968,,,
+30,3,1.0,5,integer infeasible,0.015999999945051968,,,
+30,3,1.0,5,integer infeasible,0.015000000013969839,,,
+30,3,1.0,5,integer infeasible,0.030999999959021807,,,
+30,5,0.6,1,integer optimal solution,0.03200000000651926,0.0,0,11.0
+30,5,0.6,1,integer optimal solution,0.046999999904073775,0.0,0,16.0
+30,5,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,20.0
+30,5,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,14.0
+30,5,0.6,1,integer optimal solution,0.045999999972991645,0.0,0,16.0
+30,5,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,16.0
+30,5,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,15.0
+30,5,0.6,1,integer optimal solution,0.062000000034458935,0.0,0,16.0
+30,5,0.6,1,integer optimal solution,0.046999999904073775,0.0,0,17.0
+30,5,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,16.0
+30,5,0.6,10,integer infeasible,0.03200000000651926,,,
+30,5,0.6,10,integer infeasible,0.046999999904073775,,,
+30,5,0.6,10,integer infeasible,0.0470000000204891,,,
+30,5,0.6,10,integer infeasible,0.030999999959021807,,,
+30,5,0.6,10,integer infeasible,0.030999999959021807,,,
+30,5,0.6,10,integer infeasible,0.0470000000204891,,,
+30,5,0.6,10,integer infeasible,0.0470000000204891,,,
+30,5,0.6,10,integer infeasible,0.0470000000204891,,,
+30,5,0.6,10,integer infeasible,0.03200000000651926,,,
+30,5,0.6,10,integer infeasible,0.0470000000204891,,,
+30,5,0.6,5,integer infeasible,0.030999999959021807,,,
+30,5,0.6,5,integer infeasible,0.03200000000651926,,,
+30,5,0.6,5,integer infeasible,0.03100000007543713,,,
+30,5,0.6,5,integer infeasible,0.03100000007543713,,,
+30,5,0.6,5,integer infeasible,0.030999999959021807,,,
+30,5,0.6,5,integer infeasible,0.03100000007543713,,,
+30,5,0.6,5,integer infeasible,0.03100000007543713,,,
+30,5,0.6,5,integer infeasible,0.03100000007543713,,,
+30,5,0.6,5,integer infeasible,0.0470000000204891,,,
+30,5,0.6,5,integer infeasible,0.03200000000651926,,,
+30,5,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,19.0
+30,5,0.8,1,integer optimal solution,0.06299999996554106,0.0,0,19.0
+30,5,0.8,1,integer optimal solution,0.18799999996554106,0.0,0,22.0
+30,5,0.8,1,integer optimal solution,0.062000000034458935,0.0,0,18.0
+30,5,0.8,1,integer optimal solution,0.14099999994505197,0.0,0,17.0
+30,5,0.8,1,integer optimal solution,0.09399999992456287,0.0,0,19.0
+30,5,0.8,1,integer optimal solution,0.062000000034458935,0.0,0,17.0
+30,5,0.8,1,integer optimal solution,0.046999999904073775,0.0,0,21.0
+30,5,0.8,1,integer optimal solution,0.1720000000204891,0.0,0,24.0
+30,5,0.8,1,integer optimal solution,0.1720000000204891,0.0,0,23.0
+30,5,0.8,10,integer infeasible,0.0940000000409782,,,
+30,5,0.8,10,integer infeasible,0.1410000000614673,,,
+30,5,0.8,10,integer infeasible,0.09299999999348074,,,
+30,5,0.8,10,integer infeasible,0.0940000000409782,,,
+30,5,0.8,10,integer infeasible,0.10900000005494803,,,
+30,5,0.8,10,integer infeasible,0.125,,,
+30,5,0.8,10,integer infeasible,0.125,,,
+30,5,0.8,10,integer infeasible,0.10999999998603016,,,
+30,5,0.8,10,integer infeasible,0.0779999999795109,,,
+30,5,0.8,10,integer infeasible,0.0940000000409782,,,
+30,5,0.8,5,integer infeasible,0.030999999959021807,,,
+30,5,0.8,5,integer infeasible,0.03200000000651926,,,
+30,5,0.8,5,integer infeasible,0.0470000000204891,,,
+30,5,0.8,5,integer infeasible,0.046999999904073775,,,
+30,5,0.8,5,integer infeasible,0.03100000007543713,,,
+30,5,0.8,5,integer infeasible,0.0470000000204891,,,
+30,5,0.8,5,integer infeasible,0.030999999959021807,,,
+30,5,0.8,5,integer infeasible,0.03200000000651926,,,
+30,5,0.8,5,integer infeasible,0.045999999972991645,,,
+30,5,0.8,5,integer infeasible,0.03200000000651926,,,
+30,5,1.0,1,integer optimal solution,0.2029999999795109,0.0,0,28.0
+30,5,1.0,1,integer optimal solution,0.18700000003445894,0.0,0,31.0
+30,5,1.0,1,integer optimal solution,0.2029999999795109,0.0,0,22.0
+30,5,1.0,1,integer optimal solution,0.2029999999795109,0.0,0,24.0
+30,5,1.0,1,integer optimal solution,0.2029999999795109,0.0,0,26.0
+30,5,1.0,1,integer optimal solution,0.2029999999795109,0.0,0,27.0
+30,5,1.0,1,integer optimal solution,0.17099999997299165,0.0,0,20.0
+30,5,1.0,1,integer optimal solution,0.2029999999795109,0.0,0,25.0
+30,5,1.0,1,integer optimal solution,0.4059999999590218,0.0,0,24.0
+30,5,1.0,1,integer optimal solution,0.1720000000204891,0.0,0,19.0
+30,5,1.0,10,integer infeasible,0.03100000007543713,,,
+30,5,1.0,10,integer infeasible,0.0470000000204891,,,
+30,5,1.0,10,integer infeasible,0.0779999999795109,,,
+30,5,1.0,10,integer infeasible,0.06299999996554106,,,
+30,5,1.0,10,integer infeasible,0.0779999999795109,,,
+30,5,1.0,10,integer infeasible,0.0470000000204891,,,
+30,5,1.0,10,integer infeasible,0.030999999959021807,,,
+30,5,1.0,10,integer infeasible,0.03200000000651926,,,
+30,5,1.0,10,integer infeasible,0.03100000007543713,,,
+30,5,1.0,10,integer infeasible,0.046999999904073775,,,
+30,5,1.0,5,integer infeasible,0.10900000005494803,,,
+30,5,1.0,5,integer infeasible,0.07900000002700835,,,
+30,5,1.0,5,integer infeasible,0.07800000009592623,,,
+30,5,1.0,5,integer infeasible,0.0779999999795109,,,
+30,5,1.0,5,integer infeasible,0.062000000034458935,,,
+30,5,1.0,5,integer infeasible,0.062000000034458935,,,
+30,5,1.0,5,integer infeasible,0.06299999996554106,,,
+30,5,1.0,5,integer infeasible,0.062000000034458935,,,
+30,5,1.0,5,integer infeasible,0.062000000034458935,,,
+30,5,1.0,5,integer infeasible,0.0779999999795109,,,
+30,7,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,6.0
+30,7,0.6,1,integer optimal solution,0.062000000034458935,0.0,0,2.0
+30,7,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,3.0
+30,7,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,5.0
+30,7,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,2.0
+30,7,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,5.0
+30,7,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,4.0
+30,7,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,2.0
+30,7,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,5.0
+30,7,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+30,7,0.6,10,integer infeasible,0.0779999999795109,,,
+30,7,0.6,10,integer infeasible,0.0779999999795109,,,
+30,7,0.6,10,integer infeasible,0.062000000034458935,,,
+30,7,0.6,10,integer infeasible,0.062000000034458935,,,
+30,7,0.6,10,integer infeasible,0.0779999999795109,,,
+30,7,0.6,10,integer infeasible,0.0779999999795109,,,
+30,7,0.6,10,integer infeasible,0.0779999999795109,,,
+30,7,0.6,10,integer infeasible,0.07900000002700835,,,
+30,7,0.6,10,integer infeasible,0.06299999996554106,,,
+30,7,0.6,10,integer infeasible,0.062000000034458935,,,
+30,7,0.6,5,integer infeasible,0.06299999996554106,,,
+30,7,0.6,5,integer infeasible,0.0470000000204891,,,
+30,7,0.6,5,integer infeasible,0.0470000000204891,,,
+30,7,0.6,5,integer infeasible,0.046999999904073775,,,
+30,7,0.6,5,integer infeasible,0.06300000008195639,,,
+30,7,0.6,5,integer infeasible,0.0470000000204891,,,
+30,7,0.6,5,integer infeasible,0.0470000000204891,,,
+30,7,0.6,5,integer infeasible,0.045999999972991645,,,
+30,7,0.6,5,integer infeasible,0.0470000000204891,,,
+30,7,0.6,5,integer infeasible,0.045999999972991645,,,
+30,7,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,5.0
+30,7,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,3.0
+30,7,0.8,1,integer optimal solution,0.0470000000204891,0.0,0,4.0
+30,7,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,9.0
+30,7,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,6.0
+30,7,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,3.0
+30,7,0.8,1,integer optimal solution,0.03200000000651926,0.0,0,5.0
+30,7,0.8,1,integer optimal solution,0.06199999991804361,0.0,0,6.0
+30,7,0.8,1,integer optimal solution,0.03200000000651926,0.0,0,4.0
+30,7,0.8,1,integer optimal solution,0.03200000000651926,0.0,0,5.0
+30,7,0.8,10,integer infeasible,0.09299999999348074,,,
+30,7,0.8,10,integer infeasible,0.10999999998603016,,,
+30,7,0.8,10,integer infeasible,0.10899999993853271,,,
+30,7,0.8,10,integer infeasible,0.0940000000409782,,,
+30,7,0.8,10,integer infeasible,0.125,,,
+30,7,0.8,10,integer infeasible,0.09299999999348074,,,
+30,7,0.8,10,integer infeasible,0.10899999993853271,,,
+30,7,0.8,10,integer infeasible,0.10999999998603016,,,
+30,7,0.8,10,integer infeasible,0.0940000000409782,,,
+30,7,0.8,10,integer infeasible,0.0940000000409782,,,
+30,7,0.8,5,integer infeasible,0.06199999991804361,,,
+30,7,0.8,5,integer infeasible,0.0470000000204891,,,
+30,7,0.8,5,integer infeasible,0.06299999996554106,,,
+30,7,0.8,5,integer infeasible,0.0470000000204891,,,
+30,7,0.8,5,integer infeasible,0.07900000002700835,,,
+30,7,0.8,5,integer infeasible,0.045999999972991645,,,
+30,7,0.8,5,integer infeasible,0.06300000008195639,,,
+30,7,0.8,5,integer infeasible,0.06299999996554106,,,
+30,7,0.8,5,integer infeasible,0.0470000000204891,,,
+30,7,0.8,5,integer infeasible,0.07800000009592623,,,
+30,7,1.0,1,integer optimal solution,0.030999999959021807,0.0,0,5.0
+30,7,1.0,1,integer optimal solution,0.015999999945051968,0.0,0,6.0
+30,7,1.0,1,integer optimal solution,0.03200000000651926,0.0,0,4.0
+30,7,1.0,1,integer optimal solution,0.030999999959021807,0.0,0,5.0
+30,7,1.0,1,integer optimal solution,0.03200000000651926,0.0,0,5.0
+30,7,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,5.0
+30,7,1.0,1,integer optimal solution,0.030999999959021807,0.0,0,5.0
+30,7,1.0,1,integer optimal solution,0.03200000000651926,0.0,0,7.0
+30,7,1.0,1,integer optimal solution,0.03200000000651926,0.0,0,6.0
+30,7,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,8.0
+30,7,1.0,10,integer infeasible,0.5,,,
+30,7,1.0,10,integer infeasible,0.35900000005494803,,,
+30,7,1.0,10,integer infeasible,0.375,,,
+30,7,1.0,10,integer infeasible,0.3440000000409782,,,
+30,7,1.0,10,integer infeasible,0.35999999998603016,,,
+30,7,1.0,10,integer infeasible,0.35999999998603016,,,
+30,7,1.0,10,integer infeasible,0.375,,,
+30,7,1.0,10,integer infeasible,0.25,,,
+30,7,1.0,10,integer infeasible,0.39099999994505197,,,
+30,7,1.0,10,integer infeasible,0.3440000000409782,,,
+30,7,1.0,5,integer infeasible,0.0779999999795109,,,
+30,7,1.0,5,integer infeasible,0.0779999999795109,,,
+30,7,1.0,5,integer infeasible,0.0779999999795109,,,
+30,7,1.0,5,integer infeasible,0.07800000009592623,,,
+30,7,1.0,5,integer infeasible,0.07800000009592623,,,
+30,7,1.0,5,integer infeasible,0.0779999999795109,,,
+30,7,1.0,5,integer infeasible,0.0779999999795109,,,
+30,7,1.0,5,integer infeasible,0.09399999992456287,,,
+30,7,1.0,5,integer infeasible,0.09299999999348074,,,
+30,7,1.0,5,integer infeasible,0.0940000000409782,,,
+30,9,0.6,1,integer optimal solution,0.03100000007543713,0.0,0,2.0
+30,9,0.6,1,integer optimal solution,0.03200000000651926,0.0,0,1.0
+30,9,0.6,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+30,9,0.6,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+30,9,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,0.0
+30,9,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,2.0
+30,9,0.6,1,integer optimal solution,0.015999999945051968,0.0,0,2.0
+30,9,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+30,9,0.6,1,integer optimal solution,0.0,0.0,0,0.0
+30,9,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+30,9,0.6,10,integer infeasible,0.0940000000409782,,,
+30,9,0.6,10,integer infeasible,0.07800000009592623,,,
+30,9,0.6,10,integer infeasible,0.07800000009592623,,,
+30,9,0.6,10,integer infeasible,0.0779999999795109,,,
+30,9,0.6,10,integer infeasible,0.10900000005494803,,,
+30,9,0.6,10,integer infeasible,0.09399999992456287,,,
+30,9,0.6,10,integer infeasible,0.0779999999795109,,,
+30,9,0.6,10,integer infeasible,0.10899999993853271,,,
+30,9,0.6,10,integer infeasible,0.0940000000409782,,,
+30,9,0.6,10,integer infeasible,0.0940000000409782,,,
+30,9,0.6,5,integer infeasible,6.015999999945052,,,
+30,9,0.6,5,integer infeasible,0.0779999999795109,,,
+30,9,0.6,5,integer infeasible,0.06199999991804361,,,
+30,9,0.6,5,integer infeasible,0.06300000008195639,,,
+30,9,0.6,5,integer infeasible,0.062000000034458935,,,
+30,9,0.6,5,integer infeasible,0.0779999999795109,,,
+30,9,0.6,5,integer infeasible,0.0779999999795109,,,
+30,9,0.6,5,integer infeasible,7.75,,,
+30,9,0.6,5,integer infeasible,0.062000000034458935,,,
+30,9,0.6,5,integer infeasible,0.09399999992456287,,,
+30,9,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+30,9,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+30,9,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,2.0
+30,9,0.8,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+30,9,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,1.0
+30,9,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,2.0
+30,9,0.8,1,integer optimal solution,0.03200000000651926,0.0,0,2.0
+30,9,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+30,9,0.8,1,integer optimal solution,0.01600000006146729,0.0,0,1.0
+30,9,0.8,1,integer optimal solution,0.015999999945051968,0.0,0,2.0
+30,9,0.8,10,integer infeasible,0.1559999999590218,,,
+30,9,0.8,10,integer infeasible,0.1559999999590218,,,
+30,9,0.8,10,integer infeasible,0.1559999999590218,,,
+30,9,0.8,10,integer infeasible,0.15700000000651926,,,
+30,9,0.8,10,integer infeasible,0.1410000000614673,,,
+30,9,0.8,10,integer infeasible,0.14099999994505197,,,
+30,9,0.8,10,integer infeasible,0.1559999999590218,,,
+30,9,0.8,10,integer infeasible,0.125,,,
+30,9,0.8,10,integer infeasible,0.14099999994505197,,,
+30,9,0.8,10,integer infeasible,0.15700000000651926,,,
+30,9,0.8,5,integer infeasible,0.07800000009592623,,,
+30,9,0.8,5,integer infeasible,0.125,,,
+30,9,0.8,5,integer infeasible,0.0779999999795109,,,
+30,9,0.8,5,integer infeasible,0.0940000000409782,,,
+30,9,0.8,5,integer infeasible,0.0779999999795109,,,
+30,9,0.8,5,integer infeasible,0.07800000009592623,,,
+30,9,0.8,5,integer infeasible,0.0779999999795109,,,
+30,9,0.8,5,integer infeasible,0.07800000009592623,,,
+30,9,0.8,5,integer infeasible,0.09299999999348074,,,
+30,9,0.8,5,integer infeasible,0.062000000034458935,,,
+30,9,1.0,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+30,9,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+30,9,1.0,1,integer optimal solution,0.01600000006146729,0.0,0,1.0
+30,9,1.0,1,integer optimal solution,0.015000000013969839,0.0,0,3.0
+30,9,1.0,1,integer optimal solution,0.030999999959021807,0.0,0,2.0
+30,9,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+30,9,1.0,1,integer optimal solution,0.046999999904073775,0.0,0,3.0
+30,9,1.0,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+30,9,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,2.0
+30,9,1.0,1,integer optimal solution,0.046999999904073775,0.0,0,2.0
+30,9,1.0,10,integer infeasible,0.2970000000204891,,,
+30,9,1.0,10,integer infeasible,0.29599999997299165,,,
+30,9,1.0,10,integer infeasible,0.28200000000651926,,,
+30,9,1.0,10,integer infeasible,0.3119999999180436,,,
+30,9,1.0,10,integer infeasible,0.2190000000409782,,,
+30,9,1.0,10,integer infeasible,0.2809999999590218,,,
+30,9,1.0,10,integer infeasible,0.28100000007543713,,,
+30,9,1.0,10,integer infeasible,0.2970000000204891,,,
+30,9,1.0,10,integer infeasible,0.31200000003445894,,,
+30,9,1.0,10,integer infeasible,0.25,,,
+30,9,1.0,5,integer infeasible,0.09299999999348074,,,
+30,9,1.0,5,integer infeasible,0.09399999992456287,,,
+30,9,1.0,5,integer infeasible,0.0940000000409782,,,
+30,9,1.0,5,integer infeasible,0.10900000005494803,,,
+30,9,1.0,5,integer infeasible,0.0940000000409782,,,
+30,9,1.0,5,integer infeasible,0.09399999992456287,,,
+30,9,1.0,5,integer infeasible,0.09399999992456287,,,
+30,9,1.0,5,integer infeasible,0.10900000005494803,,,
+30,9,1.0,5,integer infeasible,0.125,,,
+30,9,1.0,5,integer infeasible,0.09399999992456287,,,
+40,3,0.6,1,integer infeasible,0.015999999945051968,,,
+40,3,0.6,1,integer infeasible,0.015999999945051968,,,
+40,3,0.6,1,integer infeasible,0.015000000013969839,,,
+40,3,0.6,1,integer infeasible,0.015000000013969839,,,
+40,3,0.6,1,integer infeasible,0.03100000007543713,,,
+40,3,0.6,1,integer infeasible,0.01600000006146729,,,
+40,3,0.6,1,integer infeasible,0.015000000013969839,,,
+40,3,0.6,1,integer infeasible,0.03100000007543713,,,
+40,3,0.6,1,integer infeasible,0.03200000000651926,,,
+40,3,0.6,1,integer infeasible,0.015000000013969839,,,
+40,3,0.6,10,integer infeasible,0.0470000000204891,,,
+40,3,0.6,10,integer infeasible,0.0470000000204891,,,
+40,3,0.6,10,integer infeasible,0.046999999904073775,,,
+40,3,0.6,10,integer infeasible,0.0470000000204891,,,
+40,3,0.6,10,integer infeasible,0.03100000007543713,,,
+40,3,0.6,10,integer infeasible,0.0470000000204891,,,
+40,3,0.6,10,integer infeasible,0.046999999904073775,,,
+40,3,0.6,10,integer infeasible,0.0470000000204891,,,
+40,3,0.6,10,integer infeasible,0.062000000034458935,,,
+40,3,0.6,10,integer infeasible,0.062000000034458935,,,
+40,3,0.6,5,integer infeasible,0.030999999959021807,,,
+40,3,0.6,5,integer infeasible,0.03100000007543713,,,
+40,3,0.6,5,integer infeasible,0.015999999945051968,,,
+40,3,0.6,5,integer infeasible,0.03100000007543713,,,
+40,3,0.6,5,integer infeasible,0.0470000000204891,,,
+40,3,0.6,5,integer infeasible,0.0470000000204891,,,
+40,3,0.6,5,integer infeasible,0.0470000000204891,,,
+40,3,0.6,5,integer infeasible,0.030999999959021807,,,
+40,3,0.6,5,integer infeasible,0.03200000000651926,,,
+40,3,0.6,5,integer infeasible,0.015000000013969839,,,
+40,3,0.8,1,integer infeasible,0.015000000013969839,,,
+40,3,0.8,1,integer infeasible,0.01600000006146729,,,
+40,3,0.8,1,integer infeasible,0.015999999945051968,,,
+40,3,0.8,1,integer infeasible,0.01600000006146729,,,
+40,3,0.8,1,integer infeasible,0.01600000006146729,,,
+40,3,0.8,1,integer infeasible,0.03100000007543713,,,
+40,3,0.8,1,integer infeasible,0.030999999959021807,,,
+40,3,0.8,1,integer infeasible,0.01600000006146729,,,
+40,3,0.8,1,integer infeasible,0.01600000006146729,,,
+40,3,0.8,1,integer infeasible,0.015999999945051968,,,
+40,3,0.8,10,integer infeasible,0.030999999959021807,,,
+40,3,0.8,10,integer infeasible,0.015999999945051968,,,
+40,3,0.8,10,integer infeasible,0.015999999945051968,,,
+40,3,0.8,10,integer infeasible,0.01600000006146729,,,
+40,3,0.8,10,integer infeasible,0.015999999945051968,,,
+40,3,0.8,10,integer infeasible,0.015000000013969839,,,
+40,3,0.8,10,integer infeasible,0.015999999945051968,,,
+40,3,0.8,10,integer infeasible,0.01600000006146729,,,
+40,3,0.8,10,integer infeasible,0.015999999945051968,,,
+40,3,0.8,10,integer infeasible,0.030999999959021807,,,
+40,3,0.8,5,integer infeasible,0.03200000000651926,,,
+40,3,0.8,5,integer infeasible,0.030999999959021807,,,
+40,3,0.8,5,integer infeasible,0.03100000007543713,,,
+40,3,0.8,5,integer infeasible,0.030999999959021807,,,
+40,3,0.8,5,integer infeasible,0.01600000006146729,,,
+40,3,0.8,5,integer infeasible,0.030999999959021807,,,
+40,3,0.8,5,integer infeasible,0.0470000000204891,,,
+40,3,0.8,5,integer infeasible,0.015999999945051968,,,
+40,3,0.8,5,integer infeasible,0.03100000007543713,,,
+40,3,0.8,5,integer infeasible,0.01600000006146729,,,
+40,3,1.0,1,integer infeasible,0.015000000013969839,,,
+40,3,1.0,1,integer infeasible,0.015999999945051968,,,
+40,3,1.0,1,integer infeasible,0.03200000000651926,,,
+40,3,1.0,1,integer infeasible,0.015000000013969839,,,
+40,3,1.0,1,integer infeasible,0.015999999945051968,,,
+40,3,1.0,1,integer infeasible,0.01600000006146729,,,
+40,3,1.0,1,integer infeasible,0.030999999959021807,,,
+40,3,1.0,1,integer infeasible,0.030999999959021807,,,
+40,3,1.0,1,integer infeasible,0.015999999945051968,,,
+40,3,1.0,1,integer infeasible,0.01600000006146729,,,
+40,3,1.0,10,integer infeasible,0.03100000007543713,,,
+40,3,1.0,10,integer infeasible,0.015000000013969839,,,
+40,3,1.0,10,integer infeasible,0.03200000000651926,,,
+40,3,1.0,10,integer infeasible,0.030999999959021807,,,
+40,3,1.0,10,integer infeasible,0.015999999945051968,,,
+40,3,1.0,10,integer infeasible,0.015999999945051968,,,
+40,3,1.0,10,integer infeasible,0.015000000013969839,,,
+40,3,1.0,10,integer infeasible,0.015000000013969839,,,
+40,3,1.0,10,integer infeasible,0.01600000006146729,,,
+40,3,1.0,10,integer infeasible,0.015999999945051968,,,
+40,3,1.0,5,integer infeasible,0.01600000006146729,,,
+40,3,1.0,5,integer infeasible,0.030999999959021807,,,
+40,3,1.0,5,integer infeasible,0.015000000013969839,,,
+40,3,1.0,5,integer infeasible,0.030999999959021807,,,
+40,3,1.0,5,integer infeasible,0.01600000006146729,,,
+40,3,1.0,5,integer infeasible,0.01600000006146729,,,
+40,3,1.0,5,integer infeasible,0.015999999945051968,,,
+40,3,1.0,5,integer infeasible,0.03200000000651926,,,
+40,3,1.0,5,integer infeasible,0.015999999945051968,,,
+40,3,1.0,5,integer infeasible,0.015000000013969839,,,
+40,5,0.6,1,integer optimal solution,0.03100000007543713,0.0,0,19.0
+40,5,0.6,1,integer optimal solution,0.0779999999795109,0.0,0,26.0
+40,5,0.6,1,integer optimal solution,0.09299999999348074,0.0,0,24.0
+40,5,0.6,1,integer optimal solution,0.17099999997299165,0.0,0,24.0
+40,5,0.6,1,integer optimal solution,0.21799999999348074,0.0,0,25.0
+40,5,0.6,1,integer optimal solution,0.26500000001396984,0.0,0,27.0
+40,5,0.6,1,integer optimal solution,0.3589999999385327,0.0,0,23.0
+40,5,0.6,1,integer optimal solution,0.40600000007543713,0.0,0,30.0
+40,5,0.6,1,integer optimal solution,0.3279999999795109,0.0,0,29.0
+40,5,0.6,1,integer optimal solution,0.15700000000651926,0.0,0,25.0
+40,5,0.6,10,integer infeasible,0.0779999999795109,,,
+40,5,0.6,10,integer infeasible,0.09299999999348074,,,
+40,5,0.6,10,integer infeasible,0.0779999999795109,,,
+40,5,0.6,10,integer infeasible,0.06199999991804361,,,
+40,5,0.6,10,integer infeasible,0.07800000009592623,,,
+40,5,0.6,10,integer infeasible,0.0779999999795109,,,
+40,5,0.6,10,integer infeasible,0.06299999996554106,,,
+40,5,0.6,10,integer infeasible,0.06199999991804361,,,
+40,5,0.6,10,integer infeasible,0.0779999999795109,,,
+40,5,0.6,10,integer infeasible,0.06299999996554106,,,
+40,5,0.6,5,integer infeasible,0.06299999996554106,,,
+40,5,0.6,5,integer infeasible,0.046999999904073775,,,
+40,5,0.6,5,integer infeasible,0.0470000000204891,,,
+40,5,0.6,5,integer infeasible,0.0470000000204891,,,
+40,5,0.6,5,integer infeasible,0.06299999996554106,,,
+40,5,0.6,5,integer infeasible,0.062000000034458935,,,
+40,5,0.6,5,integer infeasible,0.06300000008195639,,,
+40,5,0.6,5,integer infeasible,0.06300000008195639,,,
+40,5,0.6,5,integer infeasible,0.045999999972991645,,,
+40,5,0.6,5,integer infeasible,0.062000000034458935,,,
+40,5,0.8,1,integer optimal solution,0.2970000000204891,0.0,0,38.0
+40,5,0.8,1,integer optimal solution,0.25,0.0,0,33.0
+40,5,0.8,1,integer optimal solution,0.25,0.0,0,32.0
+40,5,0.8,1,integer optimal solution,0.26599999994505197,0.0,0,33.0
+40,5,0.8,1,integer optimal solution,0.2809999999590218,0.0,0,36.0
+40,5,0.8,1,integer optimal solution,0.26599999994505197,0.0,0,31.0
+40,5,0.8,1,integer optimal solution,0.28200000000651926,0.0,0,32.0
+40,5,0.8,1,integer optimal solution,0.2190000000409782,0.0,0,33.0
+40,5,0.8,1,integer optimal solution,1.015999999945052,0.0,0,42.0
+40,5,0.8,1,integer optimal solution,0.29599999997299165,0.0,0,36.0
+40,5,0.8,10,integer infeasible,0.39000000001396984,,,
+40,5,0.8,10,integer infeasible,0.39000000001396984,,,
+40,5,0.8,10,integer infeasible,0.43799999996554106,,,
+40,5,0.8,10,integer infeasible,0.5320000000065193,,,
+40,5,0.8,10,integer infeasible,0.39000000001396984,,,
+40,5,0.8,10,integer infeasible,0.4220000000204891,,,
+40,5,0.8,10,integer infeasible,0.39000000001396984,,,
+40,5,0.8,10,integer infeasible,0.43799999996554106,,,
+40,5,0.8,10,integer infeasible,0.43799999996554106,,,
+40,5,0.8,10,integer infeasible,0.375,,,
+40,5,0.8,5,integer infeasible,0.07900000002700835,,,
+40,5,0.8,5,integer infeasible,0.0779999999795109,,,
+40,5,0.8,5,integer infeasible,0.07900000002700835,,,
+40,5,0.8,5,integer infeasible,0.06300000008195639,,,
+40,5,0.8,5,integer infeasible,0.0940000000409782,,,
+40,5,0.8,5,integer infeasible,0.07800000009592623,,,
+40,5,0.8,5,integer infeasible,0.09299999999348074,,,
+40,5,0.8,5,integer infeasible,0.0779999999795109,,,
+40,5,0.8,5,integer infeasible,0.0779999999795109,,,
+40,5,0.8,5,integer infeasible,0.07900000002700835,,,
+40,5,1.0,1,integer optimal solution,2.2660000000614673,0.0,0,60.0
+40,5,1.0,1,integer optimal solution,2.6410000000614673,0.0,0,50.0
+40,5,1.0,1,integer optimal solution,0.7970000000204891,0.0,0,46.0
+40,5,1.0,1,integer optimal solution,1.937999999965541,0.0,0,51.0
+40,5,1.0,1,integer optimal solution,2.5459999999729916,0.0,0,59.0
+40,5,1.0,1,integer optimal solution,2.719000000040978,0.0,0,58.0
+40,5,1.0,1,integer optimal solution,2.48499999998603,0.0,0,50.0
+40,5,1.0,1,integer optimal solution,2.452999999979511,0.0,0,56.0
+40,5,1.0,1,integer optimal solution,1.0939999999245629,0.0,0,55.0
+40,5,1.0,1,integer optimal solution,3.844000000040978,0.0,0,63.0
+40,5,1.0,10,integer infeasible,0.14000000001396984,,,
+40,5,1.0,10,integer infeasible,0.03100000007543713,,,
+40,5,1.0,10,integer infeasible,0.125,,,
+40,5,1.0,10,integer infeasible,0.062000000034458935,,,
+40,5,1.0,10,integer infeasible,0.1869999999180436,,,
+40,5,1.0,10,integer infeasible,0.030999999959021807,,,
+40,5,1.0,10,integer infeasible,0.046999999904073775,,,
+40,5,1.0,10,integer infeasible,0.0470000000204891,,,
+40,5,1.0,10,integer infeasible,0.06299999996554106,,,
+40,5,1.0,10,integer infeasible,0.0779999999795109,,,
+40,5,1.0,5,integer infeasible,0.375,,,
+40,5,1.0,5,integer infeasible,0.4839999999385327,,,
+40,5,1.0,5,integer infeasible,0.4529999999795109,,,
+40,5,1.0,5,integer infeasible,0.5939999999245629,,,
+40,5,1.0,5,integer infeasible,0.6709999999729916,,,
+40,5,1.0,5,integer infeasible,0.4059999999590218,,,
+40,5,1.0,5,integer infeasible,0.31299999996554106,,,
+40,5,1.0,5,integer infeasible,0.3440000000409782,,,
+40,5,1.0,5,integer infeasible,0.375,,,
+40,5,1.0,5,integer infeasible,0.39099999994505197,,,
+40,7,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,7.0
+40,7,0.6,1,integer optimal solution,0.06299999996554106,0.0,0,5.0
+40,7,0.6,1,integer optimal solution,0.045999999972991645,0.0,0,7.0
+40,7,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,8.0
+40,7,0.6,1,integer optimal solution,0.06299999996554106,0.0,0,7.0
+40,7,0.6,1,integer optimal solution,0.09399999992456287,0.0,0,6.0
+40,7,0.6,1,integer optimal solution,0.07900000002700835,0.0,0,7.0
+40,7,0.6,1,integer optimal solution,0.06299999996554106,0.0,0,2.0
+40,7,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,5.0
+40,7,0.6,1,integer optimal solution,0.0779999999795109,0.0,0,7.0
+40,7,0.6,10,integer infeasible,0.21799999999348074,,,
+40,7,0.6,10,integer infeasible,0.23499999998603016,,,
+40,7,0.6,10,integer infeasible,0.25,,,
+40,7,0.6,10,integer infeasible,0.25,,,
+40,7,0.6,10,integer infeasible,0.23400000005494803,,,
+40,7,0.6,10,integer infeasible,0.2339999999385327,,,
+40,7,0.6,10,integer infeasible,0.3280000000959262,,,
+40,7,0.6,10,integer infeasible,0.31200000003445894,,,
+40,7,0.6,10,integer infeasible,0.2970000000204891,,,
+40,7,0.6,10,integer infeasible,0.31200000003445894,,,
+40,7,0.6,5,integer infeasible,0.17199999990407377,,,
+40,7,0.6,5,integer infeasible,0.18700000003445894,,,
+40,7,0.6,5,integer infeasible,0.18799999996554106,,,
+40,7,0.6,5,integer infeasible,0.1720000000204891,,,
+40,7,0.6,5,integer infeasible,0.1559999999590218,,,
+40,7,0.6,5,integer infeasible,0.1720000000204891,,,
+40,7,0.6,5,integer infeasible,0.1559999999590218,,,
+40,7,0.6,5,integer infeasible,0.1410000000614673,,,
+40,7,0.6,5,integer infeasible,0.125,,,
+40,7,0.6,5,integer infeasible,0.125,,,
+40,7,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,9.0
+40,7,0.8,1,integer optimal solution,0.0470000000204891,0.0,0,10.0
+40,7,0.8,1,integer optimal solution,0.06299999996554106,0.0,0,5.0
+40,7,0.8,1,integer optimal solution,0.06299999996554106,0.0,0,7.0
+40,7,0.8,1,integer optimal solution,0.046999999904073775,0.0,0,11.0
+40,7,0.8,1,integer optimal solution,0.045999999972991645,0.0,0,6.0
+40,7,0.8,1,integer optimal solution,0.045999999972991645,0.0,0,14.0
+40,7,0.8,1,integer optimal solution,0.0470000000204891,0.0,0,9.0
+40,7,0.8,1,integer optimal solution,0.0470000000204891,0.0,0,4.0
+40,7,0.8,1,integer optimal solution,0.0779999999795109,0.0,0,9.0
+40,7,0.8,10,integer infeasible,0.515999999945052,,,
+40,7,0.8,10,integer infeasible,0.4529999999795109,,,
+40,7,0.8,10,integer infeasible,0.3589999999385327,,,
+40,7,0.8,10,integer infeasible,0.375,,,
+40,7,0.8,10,integer infeasible,0.375,,,
+40,7,0.8,10,integer infeasible,0.3440000000409782,,,
+40,7,0.8,10,integer infeasible,0.3279999999795109,,,
+40,7,0.8,10,integer infeasible,0.3440000000409782,,,
+40,7,0.8,10,integer infeasible,0.39000000001396984,,,
+40,7,0.8,10,integer infeasible,0.4220000000204891,,,
+40,7,0.8,5,integer infeasible,0.15600000007543713,,,
+40,7,0.8,5,integer infeasible,0.1559999999590218,,,
+40,7,0.8,5,integer infeasible,0.17199999990407377,,,
+40,7,0.8,5,integer infeasible,0.15600000007543713,,,
+40,7,0.8,5,integer infeasible,0.25,,,
+40,7,0.8,5,integer infeasible,0.1720000000204891,,,
+40,7,0.8,5,integer infeasible,0.20300000009592623,,,
+40,7,0.8,5,integer infeasible,0.1559999999590218,,,
+40,7,0.8,5,integer infeasible,0.1559999999590218,,,
+40,7,0.8,5,integer infeasible,0.1559999999590218,,,
+40,7,1.0,1,integer optimal solution,0.046999999904073775,0.0,0,11.0
+40,7,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,10.0
+40,7,1.0,1,integer optimal solution,0.046999999904073775,0.0,0,8.0
+40,7,1.0,1,integer optimal solution,0.062000000034458935,0.0,0,12.0
+40,7,1.0,1,integer optimal solution,0.03100000007543713,0.0,0,12.0
+40,7,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,8.0
+40,7,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,12.0
+40,7,1.0,1,integer optimal solution,0.06299999996554106,0.0,0,11.0
+40,7,1.0,1,integer optimal solution,0.07800000009592623,0.0,0,7.0
+40,7,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,11.0
+40,7,1.0,10,integer infeasible,1.062000000034459,,,
+40,7,1.0,10,integer infeasible,0.9220000000204891,,,
+40,7,1.0,10,integer infeasible,0.9059999999590218,,,
+40,7,1.0,10,integer infeasible,0.9060000000754371,,,
+40,7,1.0,10,integer infeasible,0.9689999999245629,,,
+40,7,1.0,10,integer infeasible,1.2030000000959262,,,
+40,7,1.0,10,integer infeasible,0.9220000000204891,,,
+40,7,1.0,10,integer infeasible,0.875,,,
+40,7,1.0,10,integer infeasible,0.9529999999795109,,,
+40,7,1.0,10,integer infeasible,0.9529999999795109,,,
+40,7,1.0,5,integer infeasible,0.26599999994505197,,,
+40,7,1.0,5,integer infeasible,0.2660000000614673,,,
+40,7,1.0,5,integer infeasible,0.34299999999348074,,,
+40,7,1.0,5,integer infeasible,0.2970000000204891,,,
+40,7,1.0,5,integer infeasible,0.25,,,
+40,7,1.0,5,integer infeasible,0.2970000000204891,,,
+40,7,1.0,5,integer infeasible,0.29599999997299165,,,
+40,7,1.0,5,integer infeasible,0.34299999999348074,,,
+40,7,1.0,5,integer infeasible,0.3279999999795109,,,
+40,7,1.0,5,integer infeasible,0.26500000001396984,,,
+40,9,0.6,1,integer optimal solution,0.03200000000651926,0.0,0,4.0
+40,9,0.6,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+40,9,0.6,1,integer optimal solution,0.01600000006146729,0.0,0,0.0
+40,9,0.6,1,integer optimal solution,0.046999999904073775,0.0,0,1.0
+40,9,0.6,1,integer optimal solution,0.062000000034458935,0.0,0,5.0
+40,9,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,2.0
+40,9,0.6,1,integer optimal solution,0.03200000000651926,0.0,0,1.0
+40,9,0.6,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+40,9,0.6,1,integer optimal solution,0.015000000013969839,0.0,0,0.0
+40,9,0.6,1,integer optimal solution,0.0470000000204891,0.0,0,1.0
+40,9,0.6,10,integer infeasible,0.3279999999795109,,,
+40,9,0.6,10,integer infeasible,0.3440000000409782,,,
+40,9,0.6,10,integer infeasible,0.3440000000409782,,,
+40,9,0.6,10,integer infeasible,0.25,,,
+40,9,0.6,10,integer infeasible,0.2660000000614673,,,
+40,9,0.6,10,integer infeasible,0.3119999999180436,,,
+40,9,0.6,10,integer infeasible,0.3440000000409782,,,
+40,9,0.6,10,integer infeasible,0.23400000005494803,,,
+40,9,0.6,10,integer infeasible,0.31299999996554106,,,
+40,9,0.6,10,integer infeasible,0.4059999999590218,,,
+40,9,0.6,5,integer infeasible,19.20299999997951,,,
+40,9,0.6,5,integer infeasible,0.23400000005494803,,,
+40,9,0.6,5,integer infeasible,0.23499999998603016,,,
+40,9,0.6,5,integer infeasible,0.21799999999348074,,,
+40,9,0.6,5,integer infeasible,19.21799999999348,,,
+40,9,0.6,5,integer infeasible,26.891000000061467,,,
+40,9,0.6,5,integer infeasible,0.25,,,
+40,9,0.6,5,integer infeasible,0.21899999992456287,,,
+40,9,0.6,5,integer infeasible,14.030999999959022,,,
+40,9,0.6,5,integer infeasible,0.15700000000651926,,,
+40,9,0.8,1,integer optimal solution,0.015000000013969839,0.0,0,2.0
+40,9,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,1.0
+40,9,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,3.0
+40,9,0.8,1,integer optimal solution,0.0470000000204891,0.0,0,2.0
+40,9,0.8,1,integer optimal solution,0.046999999904073775,0.0,0,6.0
+40,9,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,3.0
+40,9,0.8,1,integer optimal solution,0.030999999959021807,0.0,0,2.0
+40,9,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+40,9,0.8,1,integer optimal solution,0.03200000000651926,0.0,0,2.0
+40,9,0.8,1,integer optimal solution,0.03100000007543713,0.0,0,1.0
+40,9,0.8,10,integer infeasible,0.4530000000959262,,,
+40,9,0.8,10,integer infeasible,0.46899999992456287,,,
+40,9,0.8,10,integer infeasible,0.4839999999385327,,,
+40,9,0.8,10,integer infeasible,0.4690000000409782,,,
+40,9,0.8,10,integer infeasible,0.5,,,
+40,9,0.8,10,integer infeasible,0.4690000000409782,,,
+40,9,0.8,10,integer infeasible,0.39000000001396984,,,
+40,9,0.8,10,integer infeasible,0.43700000003445894,,,
+40,9,0.8,10,integer infeasible,0.42099999997299165,,,
+40,9,0.8,10,integer infeasible,0.48499999998603016,,,
+40,9,0.8,5,integer infeasible,0.1880000000819564,,,
+40,9,0.8,5,integer infeasible,0.2029999999795109,,,
+40,9,0.8,5,integer infeasible,0.2190000000409782,,,
+40,9,0.8,5,integer infeasible,0.31299999996554106,,,
+40,9,0.8,5,integer infeasible,0.28100000007543713,,,
+40,9,0.8,5,integer infeasible,0.2809999999590218,,,
+40,9,0.8,5,integer infeasible,0.2969999999040738,,,
+40,9,0.8,5,integer infeasible,0.2809999999590218,,,
+40,9,0.8,5,integer infeasible,0.29599999997299165,,,
+40,9,0.8,5,integer infeasible,0.26599999994505197,,,
+40,9,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,3.0
+40,9,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,1.0
+40,9,1.0,1,integer optimal solution,0.046999999904073775,0.0,0,2.0
+40,9,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,1.0
+40,9,1.0,1,integer optimal solution,0.046999999904073775,0.0,0,3.0
+40,9,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,5.0
+40,9,1.0,1,integer optimal solution,0.06300000008195639,0.0,0,6.0
+40,9,1.0,1,integer optimal solution,0.0470000000204891,0.0,0,3.0
+40,9,1.0,1,integer optimal solution,0.045999999972991645,0.0,0,5.0
+40,9,1.0,1,integer optimal solution,0.062000000034458935,0.0,0,10.0
+40,9,1.0,10,integer infeasible,1.015999999945052,,,
+40,9,1.0,10,integer infeasible,1.0150000000139698,,,
+40,9,1.0,10,integer infeasible,1.0309999999590218,,,
+40,9,1.0,10,integer infeasible,0.890999999945052,,,
+40,9,1.0,10,integer infeasible,0.8279999999795109,,,
+40,9,1.0,10,integer infeasible,0.8279999999795109,,,
+40,9,1.0,10,integer infeasible,0.6870000000344589,,,
+40,9,1.0,10,integer infeasible,0.8279999999795109,,,
+40,9,1.0,10,integer infeasible,0.875,,,
+40,9,1.0,10,integer infeasible,0.6089999999385327,,,
+40,9,1.0,5,integer infeasible,0.2339999999385327,,,
+40,9,1.0,5,integer infeasible,0.2029999999795109,,,
+40,9,1.0,5,integer infeasible,0.21899999992456287,,,
+40,9,1.0,5,integer infeasible,0.25,,,
+40,9,1.0,5,integer infeasible,0.2190000000409782,,,
+40,9,1.0,5,integer infeasible,0.23499999998603016,,,
+40,9,1.0,5,integer infeasible,0.2190000000409782,,,
+40,9,1.0,5,integer infeasible,0.20400000002700835,,,
+40,9,1.0,5,integer infeasible,0.2190000000409782,,,
+40,9,1.0,5,integer infeasible,0.21899999992456287,,,
